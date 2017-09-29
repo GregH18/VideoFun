@@ -36,6 +36,6 @@ Video is really fun and complicated
 | zebra stripes | are neat      |    $1 |
 
 
-```sh
+```
 command line command
 ```
