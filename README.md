@@ -1,5 +1,8 @@
 # VideoFun
 
+Table of COntents
+[This is the link to TABLE](#Table)
+
 Video is really fun and complicated
 1. It has two fields per frame
 1. Another line
@@ -21,8 +24,6 @@ Video is really fun and complicated
 **Betamax to the MAX!
 
 [This is a link from what I remember](google.com)
-
-[This is the link to TABLE](#Table)
 
 
 ## Table
