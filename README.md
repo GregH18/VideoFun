@@ -1,6 +1,7 @@
 # VideoFun
 
-Table of COntents
+Table of Contents
+
 [This is the link to TABLE](#Table)
 
 Video is really fun and complicated
